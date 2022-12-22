@@ -1,8 +1,8 @@
 # Leet Code Problem 338: Counting Bits
 
-![image](https://user-images.githubusercontent.com/87345979/209062943-64a48e50-9749-4a62-b5bb-9d7b393e5a57.png)
 ![image](https://user-images.githubusercontent.com/87345979/209063796-36d5a169-4d88-46b7-9046-0dfb3c5d63f7.png)
-![image](https://user-images.githubusercontent.com/87345979/209062977-29f0e0e0-212d-46cd-805a-15c95547ad76.png)
+![image](https://user-images.githubusercontent.com/87345979/209063845-e5b9bf60-9d81-46db-8808-07f3013acf98.png)
+
 
 
 # My Solution
