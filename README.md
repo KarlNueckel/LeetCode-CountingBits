@@ -1,7 +1,8 @@
 # LeetCode-CountingBits
 Solution to Leet Code Problem 338: Counting Bits
 
-class Solution {
+
+    class Solution {
 public:
     vector <int> ans; 
     long biNum;
