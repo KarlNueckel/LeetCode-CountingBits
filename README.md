@@ -1,9 +1,11 @@
 # LeetCode-CountingBits
-Solution to Leet Code Problem 338: Counting Bits
+#Leet Code Problem 338: Counting Bits
 
-![image](https://user-images.githubusercontent.com/87345979/209062814-fdc679d6-bd91-4df6-9ce0-8053990b82b6.png)
+![image](https://user-images.githubusercontent.com/87345979/209062943-64a48e50-9749-4a62-b5bb-9d7b393e5a57.png)
+![image](https://user-images.githubusercontent.com/87345979/209062977-29f0e0e0-212d-46cd-805a-15c95547ad76.png)
 
 
+#My Solution
     class Solution {
     public:
         vector <int> ans; 
