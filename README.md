@@ -41,3 +41,10 @@
             return ans;
         }
     };
+    
+# RunTime Distribution %
+![image](https://user-images.githubusercontent.com/87345979/209063418-183cd4d8-3c90-4745-937c-6950c8678dfd.png)
+
+# Memory Distribution %
+![image](https://user-images.githubusercontent.com/87345979/209063495-528b3490-c52b-4d4f-b994-9ff84a010952.png)
+
