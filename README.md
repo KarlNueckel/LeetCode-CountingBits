@@ -1,6 +1,8 @@
 # LeetCode-CountingBits
 Solution to Leet Code Problem 338: Counting Bits
 
+![image](https://user-images.githubusercontent.com/87345979/209062814-fdc679d6-bd91-4df6-9ce0-8053990b82b6.png)
+
 
     class Solution {
     public:
