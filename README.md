@@ -1,2 +1,2 @@
 # LeetCode-CountingBits
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Solution to Leet Code Problem 338: Counting Bits
