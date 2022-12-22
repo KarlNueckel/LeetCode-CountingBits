@@ -1,4 +1,3 @@
-# LeetCode-CountingBits
 # Leet Code Problem 338: Counting Bits
 
 ![image](https://user-images.githubusercontent.com/87345979/209062943-64a48e50-9749-4a62-b5bb-9d7b393e5a57.png)
